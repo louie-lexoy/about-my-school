@@ -1,5 +1,7 @@
 *{
   box-sizing: border-box;
+  font-family: 'Noto Sans JP', sans-serif;
+
 }
 .topnav{
   background-color: black;
@@ -17,16 +19,21 @@
   background-color: white;
   color:black;
 }
+header:hover{
+  background-color:blue;
+color:white;
+padding: 40px;
+}
 header {
-  background-color:navy;
+  background-color:lightblue;
   padding: 30px;
   text-align: center;
   font-size: 60px;
-  color: white;
+  color:black;
 }
 #sidenavigation {
   float: left;
-background-color:orange;
+background-color:;
 width: 30%;
 height: 300px;}
 #navigation{
@@ -41,7 +48,7 @@ a{
   padding: 10px;
 }
 article{
-  background-color:green;
+  background-color:brown;
   color: white;
   height: 300px;
   float: right;
